@@ -1,0 +1,15 @@
+title {
+	text-align: center;
+	color: #080f79;
+	font-size: 30px;
+	margin-bottom: 60px;
+	margin-top: 60px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+title:hover {
+	color:#ff7900 2s ease-in 1s;
+	font-size: 60px 3s ease-in 2s;
+}
+
